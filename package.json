@@ -5,6 +5,7 @@
   "main": "day_01.js",
   "scripts": {
     "start_01": "cd day_01 && node main.js",
+		"start_01_02": "cd day_01 && node part_2.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
