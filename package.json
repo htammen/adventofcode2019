@@ -1,0 +1,15 @@
+{
+  "name": "day_01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "day_01.js",
+  "scripts": {
+    "start_01": "cd day_01 && node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
